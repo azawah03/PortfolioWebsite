@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "framer-motion": "^10.12.18",
+    "node-sass": "^9.0.0",
+    "react-icons": "^4.10.1",
+    "react-tooltip": "^5.18.0",
+    "react-tsparticles": "^2.10.1",
+    "typewriter-effect": "^2.20.1"
+  }
+}
